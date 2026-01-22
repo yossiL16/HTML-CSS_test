@@ -46,16 +46,71 @@ margin-top: 3px;
     margin-right: 8px;
     background-color: black;
     color: white;
+    border-radius: 5px
 }
 
 .sing-up {
+    background-color: rgb(236, 235, 233);
     float: left;
     margin-right: 8px;
-    border-style: solid;
-    border-width: 0;
     border-radius: 5px
 }
 
 .question-mark {
     margin-top: 2px;
 }
+
+.section1 {
+    /* background-color: antiquewhite; */
+    margin-top: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section2 {
+    margin-top: 4px;
+    margin-left: 700px;
+    margin-right: 700px;
+    /* background-color: rgb(194, 196, 196); */
+    border: 1px solid;
+    border-color: rgb(158, 161, 161);
+    border-radius: 5px;
+}
+
+#ask {
+    padding: right 100px;
+    width: 500px;
+    height: 35px;
+    margin-left: 10px;
+    border-width:0px;
+    border:none;
+     border-radius: 5px;
+}
+
+
+.fourButton-div {
+    float: left;
+    margin-left: 10px;
+    margin-top: 0;
+}
+
+.image {
+    width: 10px;
+}
+
+.butt{
+    border-width:0px;
+    border:none;
+    border-radius: 5px;
+}
+
+.vois-button {
+    margin-left: 480px;
+}
+
+#buttVoice {
+    background-color: rgb(169, 172, 173);
+}
+
