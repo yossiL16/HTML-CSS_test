@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-image {
+    float: left;
+    margin: 2px;
+}
+
+.logo-name {
+    float: left;
+    margin: 2px;
+}
+
+
+.arrow-image {
+    margin-left: 2px;
+}
+
+.logoDiv{
+    display: inline-block;
+}
+
+.links {
+float: right;
+margin-right: 750px;
+margin-top: 3px;
+}
+
+.link {
+    color: gray;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.logIn-div {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.log-in {
+    float: left;
+    margin-right: 8px;
+    background-color: black;
+    color: white;
+}
+
+.sing-up {
+    float: left;
+    margin-right: 8px;
+    border-style: solid;
+    border-width: 0;
+    border-radius: 5px
+}
+
+.question-mark {
+    margin-top: 2px;
+}
